@@ -1,5 +1,5 @@
 const API_KEY =
-  "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"; // Replace with your actual key
+  "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"; // Replace with your actual key (this is a fake key the real one is hidden)
 
 export async function sendMsgToChatBot(message) {
   try {
