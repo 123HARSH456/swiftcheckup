@@ -1,3 +1,6 @@
+## Use Swift checkup ai here:
+https://swift-checkup-ai.vercel.app/
+
 # 🏥 Early Disease Detection & Health Monitoring Platform  
 
 ## 📖 Overview  
